@@ -1,4 +1,4 @@
-GpsCoordinatesParser
+Gps Coordinates Parser
 ====================
 
 Simple GPS coordinates parsing library for Java language.
